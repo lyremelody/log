@@ -4,15 +4,15 @@
 
 ## 读书 <a id="reading"></a>
 
-* [目录](reading/contents-reading.md)
+* [读书-概览](reading/contents-reading.md)
 
 ## 思考
 
-* [目录](si-kao/contents-mind.md)
+* [思考-概览](si-kao/contents-mind.md)
 
 ## IT技术 <a id="it-technology"></a>
 
-* [目录](it-technology/contents-it.md)
+* [IT技术-概览](it-technology/contents-it.md)
 * [算法](it-technology/algorithm/README.md)
   * [冒泡排序](it-technology/algorithm/bubble-sort.md)
   * [快速排序](it-technology/algorithm/quick-sort.md)
@@ -27,5 +27,5 @@
 
 ## 职业化 <a id="profession"></a>
 
-* [目录](profession/contents-profession.md)
+* [职业化-概览](profession/contents-profession.md)
 
