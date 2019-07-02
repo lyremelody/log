@@ -6,11 +6,15 @@
 
 * [目录](it-technology/contents-it.md)
 * [算法](it-technology/algorithm/README.md)
-  * [冒泡排序](it-technology/algorithm/mao-pao-pai-xu.md)
-  * [快速排序](it-technology/algorithm/kuai-su-pai-xu.md)
+  * [冒泡排序](it-technology/algorithm/bubble-sort.md)
+  * [快速排序](it-technology/algorithm/quick-sort.md)
+  * [堆排序](it-technology/algorithm/heap-sort.md)
+  * [Bloom Filter](it-technology/algorithm/bloom-filter.md)
 * [数据结构](it-technology/data-structure/README.md)
-  * [链表](it-technology/data-structure/lian-biao.md)
-  * [队列](it-technology/data-structure/dui-lie.md)
+  * [链表](it-technology/data-structure/linked-list.md)
+  * [队列](it-technology/data-structure/queue.md)
+  * [树](it-technology/data-structure/tree.md)
+  * [trie](it-technology/data-structure/trie.md)
 
 ## 读书 <a id="reading"></a>
 
