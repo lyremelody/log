@@ -6,6 +6,8 @@
 
 * [读后感](reading/contents-reading/README.md)
   * [如何有效地养成习惯](reading/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
+* [知识整理](reading/xmind/README.md)
+  * [《影响力大师》](reading/xmind/ying-xiang-li-da-shi.md)
 
 ## IT技术 <a id="it-technology"></a>
 
