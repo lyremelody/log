@@ -27,6 +27,8 @@
 * [软件设计](it-technology/design/README.md)
   * [设计模式](it-technology/design/design-pattern.md)
   * [架构](it-technology/design/architecture.md)
+* [Elasticsearch](it-technology/elasticsearch/README.md)
+  * [Elasticsearch热温数据迁移验证](it-technology/elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
 * [刷题](it-technology/practice.md)
 
 ## 思考 <a id="mind"></a>
