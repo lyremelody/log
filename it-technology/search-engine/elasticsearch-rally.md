@@ -64,7 +64,9 @@ description: '2018-01-23'
 
 这三种场景对应 esrally 里面的四种 pipeline；通过在执行 esrally 时，指定不同的 pipeline，会执行不同的操作。（注：本文所有例子的执行参数，均省略不相关的内容）
 
-针对源代码（由于对构建工具的支持问题，这种方式只能支持 Elasticsearch 5.0及以上版本）
+### 针对源代码
+
+由于对构建工具的支持问题，这种方式只能支持 Elasticsearch 5.0及以上版本
 
 ```bash
 esrally --pipeline=from-sources-complete --revision=latest
@@ -80,13 +82,17 @@ esrally --pipeline=from-sources-complete --revision=latest
 esrally --pipeline=from-sources-skip-build
 ```
 
- 针对发型版，类似下面这种，可以指定发型版的版本号，esrally会从官网下载相应的版本：
+### 针对发型版
+
+类似下面这种，可以指定发型版的版本号，esrally会从官网下载相应的版本：
 
 ```bash
 esrally --pipeline=from-distribution --distribution-version=6.0.0
 ```
 
-针对自己搭建的集群，只做基准测试，就是如下方式，需要指定 Elasticsearch 集群的访问地址：
+### 针对自己搭建的集群
+
+只做基准测试，就是如下方式，需要指定 Elasticsearch 集群的访问地址：
 
 ```bash
  esrally --pipeline=benchmark-only \
