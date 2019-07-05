@@ -9,6 +9,7 @@
   * [如何有效地养成习惯](reading/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
 * [知识整理](reading/xmind/README.md)
   * [《影响力大师》](reading/xmind/ying-xiang-li-da-shi.md)
+  * [《简约之美-软件设计之道》](reading/xmind/jian-yue-zhi-mei-ruan-jian-she-ji-zhi-dao.md)
 
 ## IT技术 <a id="it-technology"></a>
 
