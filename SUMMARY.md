@@ -35,6 +35,9 @@
   * [初识「搜索引擎」](it-technology/search-engine/chu-shi-sou-suo-yin-qing.md)
   * [Elasticsearch热温数据迁移验证](it-technology/search-engine/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
   * [Elasticsearch Rally](it-technology/search-engine/elasticsearch-rally.md)
+* [容器](it-technology/container/README.md)
+  * [那些年踩过的坑--Docker篇（二）数据持久化](it-technology/container/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
+  * [那些年踩过的坑--Docker篇](it-technology/container/na-xie-nian-cai-guo-de-keng-docker-pian.md)
 * [刷题](it-technology/practice.md)
 
 ## 思考 <a id="mind"></a>
