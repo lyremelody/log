@@ -17,7 +17,7 @@
   * [算法](it-technology/base/algorithm/README.md)
     * [冒泡排序](it-technology/base/algorithm/bubble-sort.md)
     * [快速排序](it-technology/base/algorithm/quick-sort.md)
-    * [堆排序](it-technology/base/algorithm/heap-sort.md)
+    * [最大堆和堆排序](it-technology/base/algorithm/heap-sort.md)
     * [Bloom Filter](it-technology/base/algorithm/bloom-filter.md)
   * [数据结构](it-technology/base/data-structure/README.md)
     * [链表](it-technology/base/data-structure/linked-list.md)
