@@ -6,6 +6,7 @@
 
 * [读后感](reading/contents-reading/README.md)
   * [寻求内心的力量](reading/contents-reading/xun-qiu-nei-xin-de-li-liang.md)
+  * [读《异类》](reading/contents-reading/du-yi-lei.md)
   * [如何有效地养成习惯](reading/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
 * [知识整理](reading/xmind/README.md)
   * [《影响力大师》](reading/xmind/ying-xiang-li-da-shi.md)
