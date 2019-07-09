@@ -47,4 +47,5 @@
   * [谈谈设计之「自顶向下」和「自底向上」](mind/contents-mind/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md)
   * [职业生涯的思考](mind/contents-mind/zhi-ye-sheng-ya-de-si-kao.md)
   * [处事方法归纳](mind/contents-mind/chu-shi-fang-fa-gui-na.md)
+  * [早起，其实并没有那么难](mind/contents-mind/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
 
