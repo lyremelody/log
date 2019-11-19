@@ -205,8 +205,7 @@ docker run -it --net=host \
 
 最后我们来看看这个 Docker 镜像的 Dockerfile：
 
-{% code-tabs %}
-{% code-tabs-item title="Dockerfile" %}
+{% code title="Dockerfile" %}
 ```bash
 FROM python:3.6.4-alpine3.6
 LABEL maintainer "https://github.com/lyremelody"
@@ -218,8 +217,7 @@ RUN pip install esrally==0.9.0
 COPY rally.ini /root/.rally/
 CMD esrally --pipeline=benchmark-only --target-hosts=$TARGET_HOST --track=$TRACK --report-format=$REPORT_FORMAT
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
     
 

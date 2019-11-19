@@ -31,8 +31,7 @@ description: '2018-12-11'
 
 #### 2.2.1 ES Node1数据存储使用SSD（/usrvol/ssd），配置为热节点
 
-{% code-tabs %}
-{% code-tabs-item title="elasticsearch.yml" %}
+{% code title="elasticsearch.yml" %}
 ```yaml
 cluster.name: elasticsearch
 node.name: node1node.master: true
@@ -47,8 +46,7 @@ transport.tcp.port: 9300
 discovery.zen.minimum_master_nodes: 1
 discovery.zen.ping.unicast.hosts: ["10.211.55.5:9300","10.211.55.5:9301"]
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 启动参数：
 
@@ -64,8 +62,7 @@ docker run -itd --name=elasticsearch_hot --restart=always \
 
 #### 2.2.2 ES Node2数据存储使用SATA（/usrvol/sata），配置为温节点
 
-{% code-tabs %}
-{% code-tabs-item title="elasticsearch.yml" %}
+{% code title="elasticsearch.yml" %}
 ```yaml
 cluster.name: elasticsearch
 node.name: node2
@@ -81,8 +78,7 @@ transport.tcp.port: 9300
 discovery.zen.minimum_master_nodes: 1
 discovery.zen.ping.unicast.hosts: ["10.211.55.5:9300","10.211.55.5:9301"]
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 启动参数：
 
