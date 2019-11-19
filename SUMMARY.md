@@ -26,9 +26,6 @@
     * [Elasticsearch热温数据迁移验证](learning/learning-elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
     * [Elasticsearch Rally](learning/learning-elasticsearch/elasticsearch-rally.md)
   * [Nginx](learning/learning-nginx.md)
-  * [Docker](learning/learning-docker/README.md)
-    * [那些年踩过的坑--Docker篇](learning/learning-docker/na-xie-nian-cai-guo-de-keng-docker-pian.md)
-    * [那些年踩过的坑--Docker篇（二）数据持久化](learning/learning-docker/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
   * [Etcd](learning/learning-etcd.md)
   * [Zookeeper](learning/learning-zookeeper.md)
   * [Kubernetes](learning/learning-kubernetes.md)
@@ -60,4 +57,16 @@
   * [职业生涯的思考](mind/contents-mind/zhi-ye-sheng-ya-de-si-kao.md)
   * [处事方法归纳](mind/contents-mind/chu-shi-fang-fa-gui-na.md)
   * [早起，其实并没有那么难](mind/contents-mind/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
+
+## 学习笔记-Docker
+
+* [概念](xue-xi-bi-ji-docker/introduce/README.md)
+  * [Docker是什么？](xue-xi-bi-ji-docker/introduce/what-is-docker.md)
+  * [Docker能做什么？](xue-xi-bi-ji-docker/introduce/what-can-docker-do.md)
+  * [Docker发展历程](xue-xi-bi-ji-docker/introduce/docker-history.md)
+  * [关键概念](xue-xi-bi-ji-docker/introduce/key-concept.md)
+* [使用](xue-xi-bi-ji-docker/how-to-use/README.md)
+  * [那些年踩过的坑--Docker篇（二）数据持久化](xue-xi-bi-ji-docker/how-to-use/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
+  * [那些年踩过的坑--Docker篇](xue-xi-bi-ji-docker/how-to-use/na-xie-nian-cai-guo-de-keng-docker-pian.md)
+* [原理](xue-xi-bi-ji-docker/principle.md)
 
