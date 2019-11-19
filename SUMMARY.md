@@ -20,23 +20,19 @@
     * [C++](learning/learning-programming/learning-cpp.md)
     * [Python](learning/learning-programming/learning-python.md)
     * [Golang](learning/learning-programming/learning-golang.md)
-  * [Elasticsearch](learning/learning-elasticsearch.md)
+  * [微服务](learning/learning-microservices.md)
+  * [服务网格](learning/learing-service-mesh.md)
+  * [Elasticsearch](learning/learning-elasticsearch/README.md)
+    * [Elasticsearch热温数据迁移验证](learning/learning-elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
+    * [Elasticsearch Rally](learning/learning-elasticsearch/elasticsearch-rally.md)
   * [Nginx](learning/learning-nginx.md)
-  * [Docker](learning/learning-docker.md)
+  * [Docker](learning/learning-docker/README.md)
+    * [那些年踩过的坑--Docker篇](learning/learning-docker/na-xie-nian-cai-guo-de-keng-docker-pian.md)
+    * [那些年踩过的坑--Docker篇（二）数据持久化](learning/learning-docker/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
   * [Etcd](learning/learning-etcd.md)
   * [Zookeeper](learning/learning-zookeeper.md)
   * [Kubernetes](learning/learning-kubernetes.md)
   * [Helm](learning/learning-helm.md)
-
-## 云原生 <a id="cloud-native"></a>
-
-* [容器](cloud-native/container/README.md)
-  * [那些年踩过的坑--Docker篇（二）数据持久化](cloud-native/container/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
-  * [那些年踩过的坑--Docker篇](cloud-native/container/na-xie-nian-cai-guo-de-keng-docker-pian.md)
-* [微服务](cloud-native/microservices.md)
-* [不可变基础设施](cloud-native/bu-ke-bian-ji-chu-she-shi.md)
-* [声明式API](cloud-native/sheng-ming-shi-api.md)
-* [服务网格](cloud-native/service-mesh.md)
 
 ## 读书 <a id="reading"></a>
 
@@ -55,8 +51,6 @@
   * [架构](it-technology/design/architecture.md)
 * [搜索引擎](it-technology/search-engine/README.md)
   * [初识「搜索引擎」](it-technology/search-engine/chu-shi-sou-suo-yin-qing.md)
-  * [Elasticsearch热温数据迁移验证](it-technology/search-engine/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
-  * [Elasticsearch Rally](it-technology/search-engine/elasticsearch-rally.md)
 * [刷题](it-technology/practice.md)
 
 ## 思考 <a id="mind"></a>
