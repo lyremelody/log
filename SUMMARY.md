@@ -65,10 +65,11 @@
   * [Docker能做什么？](learning-docker/introduce/what-can-docker-do.md)
   * [Docker发展历程](learning-docker/introduce/docker-history.md)
   * [关键概念](learning-docker/introduce/key-concept.md)
-* [使用](learning-docker/how-to-use/README.md)
-  * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/how-to-use/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
-  * [那些年踩过的坑--Docker篇](learning-docker/how-to-use/na-xie-nian-cai-guo-de-keng-docker-pian.md)
+* [使用](learning-docker/how-to-use.md)
 * [原理](learning-docker/principle.md)
+* [实践和思考](learning-docker/my-practice-thinking/README.md)
+  * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/my-practice-thinking/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
+  * [那些年踩过的坑--Docker篇](learning-docker/my-practice-thinking/na-xie-nian-cai-guo-de-keng-docker-pian.md)
 
 ## 学习笔记-微服务 <a id="learning-microservices"></a>
 
