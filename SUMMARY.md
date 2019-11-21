@@ -58,6 +58,16 @@
   * [处事方法归纳](mind/contents-mind/chu-shi-fang-fa-gui-na.md)
   * [早起，其实并没有那么难](mind/contents-mind/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
 
+## 学习笔记-架构设计 <a id="learning-architecture"></a>
+
+* [设计原则](learning-architecture/she-ji-yuan-ze.md)
+* [架构模式](learning-architecture/architecture-pattern.md)
+* [设计模式](learning-architecture/design-pattern.md)
+
+## 学习笔记-微服务 <a id="learning-microservices"></a>
+
+* [概念](learning-microservices/untitled.md)
+
 ## 学习笔记-Docker <a id="learning-docker"></a>
 
 * [概念](learning-docker/introduce/README.md)
@@ -70,8 +80,4 @@
 * [实践和思考](learning-docker/my-practice-thinking/README.md)
   * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/my-practice-thinking/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
   * [那些年踩过的坑--Docker篇](learning-docker/my-practice-thinking/na-xie-nian-cai-guo-de-keng-docker-pian.md)
-
-## 学习笔记-微服务 <a id="learning-microservices"></a>
-
-* [概念](learning-microservices/untitled.md)
 
