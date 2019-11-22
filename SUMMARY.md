@@ -28,7 +28,6 @@
   * [Nginx](learning/learning-nginx.md)
   * [Etcd](learning/learning-etcd.md)
   * [Zookeeper](learning/learning-zookeeper.md)
-  * [Kubernetes](learning/learning-kubernetes.md)
   * [Helm](learning/learning-helm.md)
 * [知识整理](xmind/README.md)
   * [《影响力大师》](xmind/ying-xiang-li-da-shi.md)
