@@ -66,7 +66,14 @@
   * [关键概念](learning-docker/introduce/key-concept.md)
 * [使用](learning-docker/how-to-use.md)
 * [原理](learning-docker/principle.md)
-* [实践和思考](learning-docker/my-practice-thinking/README.md)
-  * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/my-practice-thinking/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
-  * [那些年踩过的坑--Docker篇](learning-docker/my-practice-thinking/na-xie-nian-cai-guo-de-keng-docker-pian.md)
+* [实践和思考](learning-docker/my-practice/README.md)
+  * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
+  * [那些年踩过的坑--Docker篇](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian.md)
+
+## 学习笔记-Kubernetes <a id="learning-kubernetes"></a>
+
+* [概念](learning-kubernetes/introduce.md)
+* [使用](learning-kubernetes/how-to-use.md)
+* [原理](learning-kubernetes/principle.md)
+* [实践和思考](learning-kubernetes/my-practice.md)
 
