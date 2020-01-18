@@ -1,6 +1,6 @@
 # 什么是消息队列？
 
-## 1 对于队列的理解队列
+## 1 对于队列的理解
 
 队列是一种「先进先出」数据结构。
 
@@ -51,6 +51,4 @@ RocketMQ 中国开发者中心：[http://rocketmq.cloud/zh-cn/](http://rocketmq.
 ## 4 参考资料
 
 1. [Wiki - 消息队列](https://zh.wikipedia.org/wiki/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
-
-## 3 开源消息队列有哪些？
 
