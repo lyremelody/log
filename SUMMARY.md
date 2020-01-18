@@ -20,6 +20,8 @@
     * [C++](learning/learning-programming/learning-cpp.md)
     * [Python](learning/learning-programming/learning-python.md)
     * [Golang](learning/learning-programming/learning-golang.md)
+  * [消息队列](learning/message-queue/README.md)
+    * [为什么需要消息队列？](learning/message-queue/why-need-message-queue.md)
   * [微服务](learning/learning-microservices.md)
   * [服务网格](learning/learing-service-mesh.md)
   * [Elasticsearch](learning/learning-elasticsearch/README.md)
