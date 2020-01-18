@@ -21,6 +21,7 @@
     * [Python](learning/learning-programming/learning-python.md)
     * [Golang](learning/learning-programming/learning-golang.md)
   * [消息队列](learning/message-queue/README.md)
+    * [什么是消息队列？](learning/message-queue/what-is-message-queue.md)
     * [为什么需要消息队列？](learning/message-queue/why-need-message-queue.md)
   * [微服务](learning/learning-microservices.md)
   * [服务网格](learning/learing-service-mesh.md)
