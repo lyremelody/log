@@ -159,7 +159,7 @@ docker run -it --net=host -v \
 
 结果大约形如：
 
-![&#x56FE;1 &#x62A5;&#x544A;&#x7ED3;&#x679C;](../../.gitbook/assets/esrally-01.png)
+![&#x56FE;1 &#x62A5;&#x544A;&#x7ED3;&#x679C;](../.gitbook/assets/esrally-01.png)
 
 结果会包含诸如索引消耗的总时间、GC信息、堆使用情况、索引吞吐量、\(各种类型堆\)搜索吞吐量、延迟百分率等，具体内容可以查看[「Summary Report」](https://esrally.readthedocs.io/en/0.9.1/summary_report.html)一章，看看具体指标的解释。
 
@@ -173,7 +173,7 @@ esrally 也可以使用离线的方式，即预先在能访问互联网的机器
 
 esrally 目前提供了很多[「测试数据集」](https://github.com/elastic/rally-tracks.git)，如下图：
 
-![&#x56FE;2 &#x6D4B;&#x8BD5;&#x6570;&#x636E;&#x96C6;](../../.gitbook/assets/esrally-02.png)
+![&#x56FE;2 &#x6D4B;&#x8BD5;&#x6570;&#x636E;&#x96C6;](../.gitbook/assets/esrally-02.png)
 
 可以通过如下方式进行下载（例如下载 http**\_**logs 数据集）：
 

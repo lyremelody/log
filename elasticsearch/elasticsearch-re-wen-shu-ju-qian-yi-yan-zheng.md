@@ -98,11 +98,11 @@ docker run -itd --name=elasticsearch_warm --restart=always \
 
 默认logstash-2018.12.11分配在SSD（node1）；修改索引的标签属性，以实现在ES实例的转移，从而实现在存储介质的转移。
 
-![&#x56FE;1 &#x6570;&#x636E;&#x5207;&#x6362;&#x8FC7;&#x7A0B;](../../.gitbook/assets/2018121101.png)
+![&#x56FE;1 &#x6570;&#x636E;&#x5207;&#x6362;&#x8FC7;&#x7A0B;](../.gitbook/assets/2018121101.png)
 
 ### 3.2 结果
 
 将logstash-2018.12.11从SSD（node1）迁移到了SATA （node2）。
 
-![&#x56FE;2 &#x5207;&#x6362;&#x7ED3;&#x679C;](../../.gitbook/assets/2018121102.png)
+![&#x56FE;2 &#x5207;&#x6362;&#x7ED3;&#x679C;](../.gitbook/assets/2018121102.png)
 
