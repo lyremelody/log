@@ -21,6 +21,7 @@
   * [Golang](learning-programming/learning-golang.md)
 * [消息队列](message-queue/README.md)
   * [什么是消息队列？](message-queue/what-is-message-queue.md)
+  * [消息队列适合哪些场景？](message-queue/mq-situation.md)
   * [为什么需要消息队列？](message-queue/why-need-message-queue.md)
 * [知识整理](xmind/README.md)
   * [《影响力大师》](xmind/ying-xiang-li-da-shi.md)
