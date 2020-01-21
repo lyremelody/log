@@ -33,8 +33,26 @@ description: '@lyremelody 的日志'
 {% page-ref page="mind/contents-reading/" %}
 {% endtab %}
 
-{% tab title="实践" %}
+{% tab title="架构" %}
+## 架构设计
 
+{% page-ref page="learning-architecture/she-ji-yuan-ze.md" %}
+
+{% page-ref page="learning-architecture/architecture-pattern.md" %}
+
+{% page-ref page="learning-architecture/design-pattern.md" %}
+
+## 微服务
+
+{% page-ref page="learning-microservices/untitled.md" %}
+{% endtab %}
+
+{% tab title="实践" %}
+## 云原生
+
+## 其他
 {% endtab %}
 {% endtabs %}
+
+
 
