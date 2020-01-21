@@ -48,7 +48,13 @@ RocketMQ 中国开发者中心：[http://rocketmq.cloud/zh-cn/](http://rocketmq.
 
 官网：[https://nsq.io/](https://nsq.io/)
 
-## 4 参考资料
+## 4 其他关注的消息队列
+
+### KubeMQ
+
+官网：[https://kubemq.io/](https://kubemq.io/)
+
+## 5 参考资料
 
 1. [Wiki - 消息队列](https://zh.wikipedia.org/wiki/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
 
