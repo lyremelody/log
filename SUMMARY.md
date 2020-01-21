@@ -1,6 +1,7 @@
 # Table of contents
 
 * [目录](README.md)
+* [书单](book-list.md)
 * [计算机组成原理](learning-computer.md)
 * [数据结构](learning-data-structure/README.md)
   * [链表](learning-data-structure/linked-list.md)
