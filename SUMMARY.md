@@ -15,13 +15,13 @@
 * [操作系统](learning-operating-system.md)
 * [网络](learning-network.md)
 * [数据库理论](learning-database.md)
-* [消息队列](message-queue/README.md)
-  * [什么是消息队列？](message-queue/what-is-message-queue.md)
-  * [消息队列适合哪些场景？](message-queue/mq-situation.md)
-  * [为什么需要消息队列？](message-queue/why-need-message-queue.md)
-* [Python](learning-programming/learning-python.md)
-* [C++](learning-programming/learning-cpp.md)
-* [Golang](learning-programming/learning-golang.md)
+* [消息队列](learning-message-queue/README.md)
+  * [什么是消息队列？](learning-message-queue/what-is-message-queue.md)
+  * [消息队列适合哪些场景？](learning-message-queue/mq-situation.md)
+  * [为什么需要消息队列？](learning-message-queue/why-need-message-queue.md)
+* [Python](learning-python.md)
+* [C++](learning-cpp.md)
+* [Golang](learning-golang.md)
 
 ## 知识整理 <a id="xmind"></a>
 
@@ -75,15 +75,15 @@
 * [原理](learning-kubernetes/principle.md)
 * [实践和思考](learning-kubernetes/my-practice.md)
 
-## Elasticsearch
+## Elasticsearch <a id="learning-elasticsearch"></a>
 
-* [概念](elasticsearch/introduce.md)
-* [Elasticsearch热温数据迁移验证](elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
-* [Elasticsearch Rally](elasticsearch/elasticsearch-rally.md)
+* [概念](learning-elasticsearch/introduce.md)
+* [Elasticsearch热温数据迁移验证](learning-elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
+* [Elasticsearch Rally](learning-elasticsearch/elasticsearch-rally.md)
 
-## Nginx
+## Nginx <a id="learning-nginx"></a>
 
-* [Nginx性能测试](nginx/nginx-test-performance.md)
+* [Nginx性能测试](learning-nginx/nginx-test-performance.md)
 
 ## 服务网格 <a id="learing-service-mesh"></a>
 
