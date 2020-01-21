@@ -19,9 +19,9 @@
   * [什么是消息队列？](message-queue/what-is-message-queue.md)
   * [消息队列适合哪些场景？](message-queue/mq-situation.md)
   * [为什么需要消息队列？](message-queue/why-need-message-queue.md)
-* [Python](learning-python.md)
-* [C++](learning-cpp.md)
-* [Golang](learning-golang.md)
+* [Python](learning-programming/learning-python.md)
+* [C++](learning-programming/learning-cpp.md)
+* [Golang](learning-programming/learning-golang.md)
 
 ## 知识整理 <a id="xmind"></a>
 
@@ -36,7 +36,7 @@
   * [职业生涯的思考](mind/contents-mind/zhi-ye-sheng-ya-de-si-kao.md)
   * [处事方法归纳](mind/contents-mind/chu-shi-fang-fa-gui-na.md)
   * [早起，其实并没有那么难](mind/contents-mind/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
-* [读后感](mind/contents-reading/README.md)
+* [读书](mind/contents-reading/README.md)
   * [寻求内心的力量](mind/contents-reading/xun-qiu-nei-xin-de-li-liang.md)
   * [读《异类》](mind/contents-reading/du-yi-lei.md)
   * [如何有效地养成习惯](mind/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
