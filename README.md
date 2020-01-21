@@ -12,9 +12,9 @@ description: '@lyremelody 的日志'
 {% tab title="学习笔记" %}
 {% page-ref page="learning-computer.md" %}
 
-{% page-ref page="learning-data-structure/" %}
-
 {% page-ref page="learning-algorithm/" %}
+
+{% page-ref page="learning-data-structure/" %}
 
 {% page-ref page="learning-operating-system.md" %}
 
@@ -22,7 +22,13 @@ description: '@lyremelody 的日志'
 
 {% page-ref page="learning-database.md" %}
 
+{% page-ref page="learning-load-balance.md" %}
+
 {% page-ref page="learning-message-queue/" %}
+
+{% page-ref page="learning-security.md" %}
+
+{% page-ref page="learing-distributed.md" %}
 
 {% page-ref page="learning-python.md" %}
 
