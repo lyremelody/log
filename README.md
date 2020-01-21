@@ -40,7 +40,7 @@ description: '@lyremelody 的日志'
 {% endtab %}
 
 {% tab title="云原生" %}
-
+{% page-ref page="learning-microservices.md" %}
 {% endtab %}
 
 {% tab title="思考" %}
@@ -57,10 +57,6 @@ description: '@lyremelody 的日志'
 {% page-ref page="learning-architecture/architecture-pattern.md" %}
 
 {% page-ref page="learning-architecture/design-pattern.md" %}
-
-## 微服务
-
-{% page-ref page="learning-microservices/untitled.md" %}
 {% endtab %}
 
 {% tab title="实践" %}

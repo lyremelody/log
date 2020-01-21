@@ -17,16 +17,17 @@
 * [网络](learning-network.md)
 * [数据库理论](learning-database.md)
 * [负载均衡](learning-load-balance.md)
-* [消息队列](message-queue/README.md)
-  * [什么是消息队列？](message-queue/what-is-message-queue.md)
+* [消息队列](learning-message-queue/README.md)
+  * [什么是消息队列？](learning-message-queue/what-is-message-queue.md)
   * [消息队列适合哪些场景？](learning-message-queue/mq-situation.md)
-  * [为什么需要消息队列？](message-queue/why-need-message-queue.md)
+  * [为什么需要消息队列？](learning-message-queue/why-need-message-queue.md)
 * [分布式](learing-distributed.md)
 * [安全](learning-security.md)
 * [云原生](learning-cloud-native.md)
-* [Python](learning-programming/learning-python.md)
-* [C++](learning-programming/learning-cpp.md)
-* [Golang](learning-programming/learning-golang.md)
+* [微服务](learning-microservices.md)
+* [Python](learning-python.md)
+* [C++](learning-cpp.md)
+* [Golang](learning-golang.md)
 
 ## 知识整理 <a id="xmind"></a>
 
@@ -51,10 +52,6 @@
 * [设计原则](learning-architecture/she-ji-yuan-ze.md)
 * [架构模式](learning-architecture/architecture-pattern.md)
 * [设计模式](learning-architecture/design-pattern.md)
-
-## 微服务 <a id="learning-microservices"></a>
-
-* [概念](learning-microservices/untitled.md)
 
 ## Docker <a id="learning-docker"></a>
 
@@ -89,13 +86,13 @@
 
 ## Elasticsearch <a id="learning-elasticsearch"></a>
 
-* [概念](elasticsearch/introduce.md)
-* [Elasticsearch热温数据迁移验证](elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
-* [Elasticsearch Rally](elasticsearch/elasticsearch-rally.md)
+* [概念](learning-elasticsearch/introduce.md)
+* [Elasticsearch热温数据迁移验证](learning-elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
+* [Elasticsearch Rally](learning-elasticsearch/elasticsearch-rally.md)
 
 ## Nginx <a id="learning-nginx"></a>
 
-* [Nginx性能测试](nginx/nginx-test-performance.md)
+* [Nginx性能测试](learning-nginx/nginx-test-performance.md)
 
 ## 服务网格 <a id="learing-service-mesh"></a>
 
