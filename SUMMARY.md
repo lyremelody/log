@@ -75,6 +75,13 @@
 * [原理](learning-kubernetes/principle.md)
 * [实践和思考](learning-kubernetes/my-practice.md)
 
+## Helm <a id="learning-helm"></a>
+
+* [概念](learning-helm/introduce.md)
+* [使用](learning-helm/how-to-use.md)
+* [原理](learning-helm/principle.md)
+* [实践和思考](learning-helm/my-practice.md)
+
 ## Elasticsearch <a id="learning-elasticsearch"></a>
 
 * [概念](elasticsearch/introduce.md)
