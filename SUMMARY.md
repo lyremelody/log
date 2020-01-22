@@ -55,6 +55,7 @@
 
 ## Docker <a id="learning-docker"></a>
 
+* [学习资料](learning-docker/information.md)
 * [概念](learning-docker/introduce/README.md)
   * [Docker是什么？](learning-docker/introduce/what-is-docker.md)
   * [Docker能做什么？](learning-docker/introduce/what-can-docker-do.md)
@@ -80,6 +81,7 @@
 
 ## Helm <a id="learning-helm"></a>
 
+* [学习资料](learning-helm/information.md)
 * [概念](learning-helm/introduce.md)
 * [使用](learning-helm/how-to-use.md)
 * [原理](learning-helm/principle.md)
