@@ -68,6 +68,7 @@
 
 ## Kubernetes <a id="learning-kubernetes"></a>
 
+* [学习资料](learning-kubernetes/information.md)
 * [概念](learning-kubernetes/introduce/README.md)
   * [Kubernetes是什么？](learning-kubernetes/introduce/what-is-kubernetes.md)
   * [Kubernetes的发展史](learning-kubernetes/introduce/kubernetes-history.md)
