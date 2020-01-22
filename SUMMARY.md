@@ -36,8 +36,8 @@
 ## 知识整理 <a id="xmind"></a>
 
 * [书](xmind/xmind-books/README.md)
-  * [《简约之美-软件设计之道》](xmind/xmind-books/code-simplicity-the-science-of-development.md)
-  * [《影响力大师》](xmind/xmind-books/influencer.md)
+  * [《简约之美-软件设计之道》](xmind/jian-yue-zhi-mei-ruan-jian-she-ji-zhi-dao.md)
+  * [《影响力大师》](xmind/ying-xiang-li-da-shi.md)
 * [博文](xmind/xmind-blogs.md)
 
 ## 思考 <a id="mind"></a>
@@ -58,6 +58,10 @@
 * [设计原则](learning-architecture/she-ji-yuan-ze.md)
 * [架构模式](learning-architecture/architecture-pattern.md)
 * [设计模式](learning-architecture/design-pattern.md)
+
+## 服务网格 <a id="learing-service-mesh"></a>
+
+* [学习资料](learing-service-mesh/information.md)
 
 ## Docker <a id="learning-docker"></a>
 
@@ -102,6 +106,4 @@
 ## Nginx <a id="learning-nginx"></a>
 
 * [Nginx性能测试](learning-nginx/nginx-test-performance.md)
-
-## 服务网格 <a id="learing-service-mesh"></a>
 
