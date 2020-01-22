@@ -10,4 +10,5 @@
 
 1. [Kubernetes指南](https://feisky.gitbooks.io/kubernetes/)，很好的中文资料
 2. [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)，很好的中文资料
+3. [Kubernetes中文社区](https://www.kubernetes.org.cn/)
 
