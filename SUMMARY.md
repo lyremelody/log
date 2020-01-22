@@ -31,8 +31,8 @@
 
 ## 知识整理 <a id="xmind"></a>
 
-* [《简约之美-软件设计之道》](xmind/jian-yue-zhi-mei-ruan-jian-she-ji-zhi-dao.md)
-* [《影响力大师》](xmind/ying-xiang-li-da-shi.md)
+* [《简约之美-软件设计之道》](xmind/code-simplicity-the-science-of-development.md)
+* [《影响力大师》](xmind/influencer.md)
 
 ## 思考 <a id="mind"></a>
 
