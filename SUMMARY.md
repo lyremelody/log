@@ -16,14 +16,18 @@
 * [操作系统](learning-operating-system.md)
 * [网络](learning-network.md)
 * [数据库理论](learning-database.md)
+* [分布式](learing-distributed.md)
 * [负载均衡](learning-load-balance.md)
 * [消息队列](learning-message-queue/README.md)
   * [什么是消息队列？](learning-message-queue/what-is-message-queue.md)
   * [消息队列适合哪些场景？](learning-message-queue/mq-situation.md)
   * [为什么需要消息队列？](learning-message-queue/why-need-message-queue.md)
-* [分布式](learing-distributed.md)
+* [缓存](learning-cache.md)
 * [安全](learning-security.md)
+* [虚拟化](learning-virtualization.md)
+* [云计算](learning-cloud-computing.md)
 * [云原生](learning-cloud-native.md)
+* [容器](learning-container.md)
 * [微服务](learning-microservices.md)
 * [Python](learning-python.md)
 * [C++](learning-cpp.md)
@@ -31,8 +35,8 @@
 
 ## 知识整理 <a id="xmind"></a>
 
-* [《简约之美-软件设计之道》](xmind/code-simplicity-the-science-of-development.md)
-* [《影响力大师》](xmind/influencer.md)
+* [《简约之美-软件设计之道》](xmind/jian-yue-zhi-mei-ruan-jian-she-ji-zhi-dao.md)
+* [《影响力大师》](xmind/ying-xiang-li-da-shi.md)
 
 ## 思考 <a id="mind"></a>
 
