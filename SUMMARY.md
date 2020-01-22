@@ -26,6 +26,8 @@
 * [安全](learning-security.md)
 * [虚拟化](learning-virtualization.md)
 * [云计算](learning-cloud-computing.md)
+* [REST](learning-rest/README.md)
+  * [学习资料](learning-rest/information.md)
 * [云原生](learning-cloud-native.md)
 * [容器](learning-container.md)
 * [微服务](learning-microservices.md)
