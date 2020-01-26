@@ -31,6 +31,7 @@
 * [云原生](learning-cloud-native.md)
 * [容器](learning-container.md)
 * [微服务](learning-microservices.md)
+* [测试](learning-test.md)
 * [Python](learning-python.md)
 * [C++](learning-cpp.md)
 * [Golang](learning-golang.md)
