@@ -6,6 +6,10 @@
 2. [Kubernetes官方文档中文版](https://kubernetes.io/zh/docs/home/)
 3. [Kubernetes@GitHub](https://github.com/kubernetes/kubernetes)
 
+## 论文
+
+1. [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43438.pdf)，Google Inc.
+
 ## 其他资料
 
 1. [Kubernetes指南](https://feisky.gitbooks.io/kubernetes/)，很好的中文资料
