@@ -6,7 +6,7 @@ description: 读《远见》2019-05-09
 
 今天在看一本书，看了一部分，觉得有些启发。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/nibF7zl1jclcPfQQjlxtSodibYX4xKo9qC2V1qtqckoiaw85aKEq6mjQ2ibqSTycvFznaQsKKPNTdJYnUHAtjgXx2Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](../../.gitbook/assets/wechatimg58.jpeg)
 
 工作其实挺久了，这么多年，常常间歇性迷茫。
 
