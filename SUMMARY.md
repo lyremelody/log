@@ -39,8 +39,8 @@
 ## 知识整理 <a id="xmind"></a>
 
 * [书](xmind/xmind-books/README.md)
-  * [《简约之美-软件设计之道》](xmind/jian-yue-zhi-mei-ruan-jian-she-ji-zhi-dao.md)
-  * [《影响力大师》](xmind/ying-xiang-li-da-shi.md)
+  * [《简约之美-软件设计之道》](xmind/xmind-books/code-simplicity-the-science-of-development.md)
+  * [《影响力大师》](xmind/xmind-books/influencer.md)
 * [博文](xmind/xmind-blogs.md)
 
 ## 思考 <a id="mind"></a>
@@ -88,7 +88,8 @@
   * [Kubernetes的发展史](learning-kubernetes/introduce/kubernetes-history.md)
   * [Kubernetes总体架构](learning-kubernetes/introduce/kubernetes-architecture.md)
   * [Kubernetes核心概念](learning-kubernetes/introduce/kubernetes-core-concepts.md)
-* [使用](learning-kubernetes/how-to-use.md)
+* [使用](learning-kubernetes/how-to-use/README.md)
+  * [kubectl 使用](learning-kubernetes/how-to-use/use-kubectl.md)
 * [原理](learning-kubernetes/principle.md)
 * [实践和思考](learning-kubernetes/my-practice.md)
 
