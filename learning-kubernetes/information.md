@@ -16,10 +16,11 @@
 
 ## 其他资料
 
-1. [Kubernetes指南](https://feisky.gitbooks.io/kubernetes/)，很好的中文资料
-2. [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)，很好的中文资料
-3. [Kubernetes中文社区](https://www.kubernetes.org.cn/)
-4. \*\*\*\*[Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)**，**Microsoft Azure
+1. [深入剖析Kubernetes@极客时间](https://time.geekbang.org/column/intro/116)
+2. [Kubernetes指南](https://feisky.gitbooks.io/kubernetes/)，很好的中文资料
+3. [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)，很好的中文资料
+4. [Kubernetes中文社区](https://www.kubernetes.org.cn/)
+5. \*\*\*\*[Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)**，**Microsoft Azure
 
 
 
