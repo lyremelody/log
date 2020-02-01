@@ -16,7 +16,7 @@
 * [操作系统](learning-operating-system.md)
 * [网络](learning-network.md)
 * [数据库理论](learning-database.md)
-* [分布式](learing-distributed.md)
+* [分布式](learning-distributed.md)
 * [架构设计](learning-architecture/README.md)
   * [设计原则](learning-architecture/she-ji-yuan-ze.md)
   * [架构模式](learning-architecture/architecture-pattern.md)
