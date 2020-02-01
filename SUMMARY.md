@@ -2,7 +2,21 @@
 
 * [目录](README.md)
 
-## IT
+## 思考 <a id="mind"></a>
+
+* [技术思考](mind/mind-it/README.md)
+  * [初识「搜索引擎」](mind/mind-it/chu-shi-sou-suo-yin-qing.md)
+  * [谈谈设计之「自顶向下」和「自底向上」](mind/mind-it/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md)
+* [总结与反思](mind/contents-mind/README.md)
+  * [职业生涯的思考](mind/contents-mind/zhi-ye-sheng-ya-de-si-kao.md)
+  * [处事方法归纳](mind/contents-mind/chu-shi-fang-fa-gui-na.md)
+  * [早起，其实并没有那么难](mind/contents-mind/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
+* [读书](mind/contents-reading/README.md)
+  * [寻求内心的力量](mind/contents-reading/xun-qiu-nei-xin-de-li-liang.md)
+  * [读《异类》](mind/contents-reading/du-yi-lei.md)
+  * [如何有效地养成习惯](mind/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
+
+## IT笔记 <a id="it"></a>
 
 * [计算机组成原理](it/learning-computer.md)
 * [数据结构](it/learning-data-structure/README.md)
@@ -98,17 +112,4 @@
   * [《简约之美-软件设计之道》](xmind/xmind-books/code-simplicity-the-science-of-development.md)
   * [《影响力大师》](xmind/xmind-books/influencer.md)
 * [博文](xmind/xmind-blogs.md)
-
-## 思考 <a id="mind"></a>
-
-* [总结与反思](mind/contents-mind/README.md)
-  * [初识「搜索引擎」](mind/contents-mind/chu-shi-sou-suo-yin-qing.md)
-  * [谈谈设计之「自顶向下」和「自底向上」](mind/contents-mind/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md)
-  * [职业生涯的思考](mind/contents-mind/zhi-ye-sheng-ya-de-si-kao.md)
-  * [处事方法归纳](mind/contents-mind/chu-shi-fang-fa-gui-na.md)
-  * [早起，其实并没有那么难](mind/contents-mind/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
-* [读书](mind/contents-reading/README.md)
-  * [寻求内心的力量](mind/contents-reading/xun-qiu-nei-xin-de-li-liang.md)
-  * [读《异类》](mind/contents-reading/du-yi-lei.md)
-  * [如何有效地养成习惯](mind/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
 
