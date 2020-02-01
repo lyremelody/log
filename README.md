@@ -30,7 +30,7 @@ description: '@lyremelody 的日志'
 
 {% page-ref page="learning-security.md" %}
 
-{% page-ref page="learning-distributed.md" %}
+{% page-ref page="learing-distributed.md" %}
 
 {% page-ref page="learning-python.md" %}
 
