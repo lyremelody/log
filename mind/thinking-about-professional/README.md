@@ -1,6 +1,6 @@
-# 总结与反思
+# 职业化
 
-{% page-ref page="../mind-it/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md" %}
+{% page-ref page="../thinking-about-it/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md" %}
 
 {% page-ref page="zhi-ye-sheng-ya-de-si-kao.md" %}
 

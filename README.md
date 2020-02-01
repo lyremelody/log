@@ -8,7 +8,7 @@ description: '@lyremelody 的日志'
 
 {% tabs %}
 {% tab title="书单" %}
-{% page-ref page="xmind/book-list.md" %}
+{% page-ref page="reading-notes/book-list.md" %}
 {% endtab %}
 
 {% tab title="学习笔记" %}
@@ -44,9 +44,9 @@ description: '@lyremelody 的日志'
 {% endtab %}
 
 {% tab title="思考" %}
-{% page-ref page="mind/contents-mind/" %}
+{% page-ref page="mind/thinking-about-professional/" %}
 
-{% page-ref page="mind/contents-reading/" %}
+{% page-ref page="mind/after-reading/" %}
 {% endtab %}
 
 {% tab title="架构" %}

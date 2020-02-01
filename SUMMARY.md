@@ -4,17 +4,23 @@
 
 ## 思考 <a id="mind"></a>
 
-* [技术思考](mind/mind-it/README.md)
-  * [初识「搜索引擎」](mind/mind-it/chu-shi-sou-suo-yin-qing.md)
-  * [谈谈设计之「自顶向下」和「自底向上」](mind/mind-it/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md)
-* [总结与反思](mind/contents-mind/README.md)
-  * [职业生涯的思考](mind/contents-mind/zhi-ye-sheng-ya-de-si-kao.md)
-  * [处事方法归纳](mind/contents-mind/chu-shi-fang-fa-gui-na.md)
-  * [早起，其实并没有那么难](mind/contents-mind/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
-* [读书](mind/contents-reading/README.md)
-  * [寻求内心的力量](mind/contents-reading/xun-qiu-nei-xin-de-li-liang.md)
-  * [读《异类》](mind/contents-reading/du-yi-lei.md)
-  * [如何有效地养成习惯](mind/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
+* [技术思考](mind/thinking-about-it/README.md)
+  * [初识「搜索引擎」](mind/thinking-about-it/chu-shi-sou-suo-yin-qing.md)
+  * [谈谈设计之「自顶向下」和「自底向上」](mind/thinking-about-it/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md)
+* [职业化](mind/thinking-about-professional/README.md)
+  * [职业生涯的思考](mind/thinking-about-professional/zhi-ye-sheng-ya-de-si-kao.md)
+  * [处事方法归纳](mind/thinking-about-professional/chu-shi-fang-fa-gui-na.md)
+  * [早起，其实并没有那么难](mind/thinking-about-professional/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
+* [读后感](mind/after-reading/README.md)
+  * [寻求内心的力量](mind/after-reading/xun-qiu-nei-xin-de-li-liang.md)
+  * [读《异类》](mind/after-reading/du-yi-lei.md)
+  * [如何有效地养成习惯](mind/after-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
+
+## 读书笔记 <a id="reading-notes"></a>
+
+* [书单](reading-notes/book-list.md)
+* [《影响力大师》](reading-notes/influencer.md)
+* [《简约之美-软件设计之道》](reading-notes/code-simplicity-the-science-of-development.md)
 
 ## IT笔记 <a id="it"></a>
 
@@ -104,12 +110,4 @@
 * [MongoDB](it/learning-mongodb.md)
 * [MySQL](it/learning-mysql.md)
 * [Jenkins](it/learning-jenkins.md)
-
-## 知识整理 <a id="xmind"></a>
-
-* [书单](xmind/book-list.md)
-* [书](xmind/xmind-books/README.md)
-  * [《简约之美-软件设计之道》](xmind/xmind-books/code-simplicity-the-science-of-development.md)
-  * [《影响力大师》](xmind/xmind-books/influencer.md)
-* [博文](xmind/xmind-blogs.md)
 
