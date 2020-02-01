@@ -8,7 +8,7 @@ description: '2019-05-08'
 
 先看看微软的REST API指南里面的一段内容：
 
-![](../../.gitbook/assets/wechatimg59.jpeg)
+![](../.gitbook/assets/wechatimg59.jpeg)
 
 这里其实是把常用的命名管理起来了。要取一个新名字前，先看列表里面有没有：如果有，就直接用；如果没有，就按规则取一个，并添加到这个列表。
 

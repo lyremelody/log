@@ -26,9 +26,9 @@ description: '2019-03-01'
 
 先看看结果： 
 
-![](../../.gitbook/assets/wechatimg60.jpeg)
+![](../.gitbook/assets/wechatimg60.jpeg)
 
-![](../../.gitbook/assets/wechatimg61.jpeg)
+![](../.gitbook/assets/wechatimg61.jpeg)
 
 要点有三个：
 

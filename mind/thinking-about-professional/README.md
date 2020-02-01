@@ -4,9 +4,9 @@
 
 {% page-ref page="zhi-ye-sheng-ya-de-si-kao.md" %}
 
-{% page-ref page="chu-shi-fang-fa-gui-na.md" %}
+{% page-ref page="../../practice/chu-shi-fang-fa-gui-na.md" %}
 
-{% page-ref page="zao-qi-qi-shi-bing-mei-you-na-me-nan.md" %}
+{% page-ref page="../../practice/zao-qi-qi-shi-bing-mei-you-na-me-nan.md" %}
 
 
 

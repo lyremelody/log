@@ -9,12 +9,15 @@
   * [谈谈设计之「自顶向下」和「自底向上」](mind/thinking-about-it/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md)
 * [职业化](mind/thinking-about-professional/README.md)
   * [职业生涯的思考](mind/thinking-about-professional/zhi-ye-sheng-ya-de-si-kao.md)
-  * [处事方法归纳](mind/thinking-about-professional/chu-shi-fang-fa-gui-na.md)
-  * [早起，其实并没有那么难](mind/thinking-about-professional/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
 * [读后感](mind/after-reading/README.md)
   * [寻求内心的力量](mind/after-reading/xun-qiu-nei-xin-de-li-liang.md)
   * [读《异类》](mind/after-reading/du-yi-lei.md)
   * [如何有效地养成习惯](mind/after-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
+
+## 实践总结 <a id="practice"></a>
+
+* [处事方法归纳](practice/chu-shi-fang-fa-gui-na.md)
+* [早起，其实并没有那么难](practice/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
 
 ## 读书笔记 <a id="reading-notes"></a>
 
