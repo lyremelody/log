@@ -17,6 +17,10 @@
 * [网络](learning-network.md)
 * [数据库理论](learning-database.md)
 * [分布式](learing-distributed.md)
+* [架构设计](learning-architecture/README.md)
+  * [设计原则](learning-architecture/she-ji-yuan-ze.md)
+  * [架构模式](learning-architecture/architecture-pattern.md)
+  * [设计模式](learning-architecture/design-pattern.md)
 * [负载均衡](learning-load-balance.md)
 * [消息队列](learning-message-queue/README.md)
   * [什么是消息队列？](learning-message-queue/what-is-message-queue.md)
@@ -31,10 +35,24 @@
 * [云原生](learning-cloud-native.md)
 * [容器](learning-container.md)
 * [微服务](learning-microservices.md)
+* [服务网格](learing-service-mesh/README.md)
+  * [学习资料](learing-service-mesh/information.md)
 * [测试](learning-test.md)
 * [Python](learning-python.md)
 * [C++](learning-cpp.md)
 * [Golang](learning-golang.md)
+* [Docker](learning-docker/README.md)
+  * [学习资料](learning-docker/information.md)
+  * [概念](learning-docker/introduce/README.md)
+    * [Docker是什么？](learning-docker/introduce/what-is-docker.md)
+    * [Docker能做什么？](learning-docker/introduce/what-can-docker-do.md)
+    * [Docker发展历程](learning-docker/introduce/docker-history.md)
+    * [关键概念](learning-docker/introduce/key-concept.md)
+  * [使用](learning-docker/how-to-use.md)
+  * [原理](learning-docker/principle.md)
+  * [实践和思考](learning-docker/my-practice/README.md)
+    * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
+    * [那些年踩过的坑--Docker篇](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian.md)
 * [Kubernetes](learning-kubernetes/README.md)
   * [学习资料](learning-kubernetes/information.md)
   * [概念](learning-kubernetes/introduce/README.md)
@@ -47,6 +65,18 @@
     * [使用 ConfigMap](learning-kubernetes/how-to-use/use-configmap.md)
   * [原理](learning-kubernetes/principle.md)
   * [实践和思考](learning-kubernetes/my-practice.md)
+* [Helm](learning-helm/README.md)
+  * [学习资料](learning-helm/information.md)
+  * [概念](learning-helm/introduce.md)
+  * [使用](learning-helm/how-to-use.md)
+  * [原理](learning-helm/principle.md)
+  * [实践和思考](learning-helm/my-practice.md)
+* [Nginx](learning-nginx/README.md)
+  * [Nginx性能测试](learning-nginx/nginx-test-performance.md)
+* [Elasticsearch](learning-elasticsearch/README.md)
+  * [概念](learning-elasticsearch/introduce.md)
+  * [Elasticsearch热温数据迁移验证](learning-elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
+  * [Elasticsearch Rally](learning-elasticsearch/elasticsearch-rally.md)
 
 ## 知识整理 <a id="xmind"></a>
 
@@ -67,46 +97,4 @@
   * [寻求内心的力量](mind/contents-reading/xun-qiu-nei-xin-de-li-liang.md)
   * [读《异类》](mind/contents-reading/du-yi-lei.md)
   * [如何有效地养成习惯](mind/contents-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
-
-## 架构设计 <a id="learning-architecture"></a>
-
-* [设计原则](learning-architecture/she-ji-yuan-ze.md)
-* [架构模式](learning-architecture/architecture-pattern.md)
-* [设计模式](learning-architecture/design-pattern.md)
-
-## 服务网格 <a id="learing-service-mesh"></a>
-
-* [学习资料](learing-service-mesh/information.md)
-
-## Docker <a id="learning-docker"></a>
-
-* [学习资料](learning-docker/information.md)
-* [概念](learning-docker/introduce/README.md)
-  * [Docker是什么？](learning-docker/introduce/what-is-docker.md)
-  * [Docker能做什么？](learning-docker/introduce/what-can-docker-do.md)
-  * [Docker发展历程](learning-docker/introduce/docker-history.md)
-  * [关键概念](learning-docker/introduce/key-concept.md)
-* [使用](learning-docker/how-to-use.md)
-* [原理](learning-docker/principle.md)
-* [实践和思考](learning-docker/my-practice/README.md)
-  * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
-  * [那些年踩过的坑--Docker篇](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian.md)
-
-## Helm <a id="learning-helm"></a>
-
-* [学习资料](learning-helm/information.md)
-* [概念](learning-helm/introduce.md)
-* [使用](learning-helm/how-to-use.md)
-* [原理](learning-helm/principle.md)
-* [实践和思考](learning-helm/my-practice.md)
-
-## Elasticsearch <a id="learning-elasticsearch"></a>
-
-* [概念](learning-elasticsearch/introduce.md)
-* [Elasticsearch热温数据迁移验证](learning-elasticsearch/elasticsearch-re-wen-shu-ju-qian-yi-yan-zheng.md)
-* [Elasticsearch Rally](learning-elasticsearch/elasticsearch-rally.md)
-
-## Nginx <a id="learning-nginx"></a>
-
-* [Nginx性能测试](learning-nginx/nginx-test-performance.md)
 
