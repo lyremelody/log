@@ -35,6 +35,18 @@
 * [Python](learning-python.md)
 * [C++](learning-cpp.md)
 * [Golang](learning-golang.md)
+* [Kubernetes](learning-kubernetes/README.md)
+  * [学习资料](learning-kubernetes/information.md)
+  * [概念](learning-kubernetes/introduce/README.md)
+    * [Kubernetes是什么？](learning-kubernetes/introduce/what-is-kubernetes.md)
+    * [Kubernetes的发展史](learning-kubernetes/introduce/kubernetes-history.md)
+    * [Kubernetes总体架构](learning-kubernetes/introduce/kubernetes-architecture.md)
+    * [Kubernetes核心概念](learning-kubernetes/introduce/kubernetes-core-concepts.md)
+  * [使用](learning-kubernetes/how-to-use/README.md)
+    * [使用 kubectl](learning-kubernetes/how-to-use/use-kubectl.md)
+    * [使用 ConfigMap](learning-kubernetes/how-to-use/use-configmap.md)
+  * [原理](learning-kubernetes/principle.md)
+  * [实践和思考](learning-kubernetes/my-practice.md)
 
 ## 知识整理 <a id="xmind"></a>
 
@@ -79,19 +91,6 @@
 * [实践和思考](learning-docker/my-practice/README.md)
   * [那些年踩过的坑--Docker篇（二）数据持久化](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian-er-shu-ju-chi-jiu-hua.md)
   * [那些年踩过的坑--Docker篇](learning-docker/my-practice/na-xie-nian-cai-guo-de-keng-docker-pian.md)
-
-## Kubernetes <a id="learning-kubernetes"></a>
-
-* [学习资料](learning-kubernetes/information.md)
-* [概念](learning-kubernetes/introduce/README.md)
-  * [Kubernetes是什么？](learning-kubernetes/introduce/what-is-kubernetes.md)
-  * [Kubernetes的发展史](learning-kubernetes/introduce/kubernetes-history.md)
-  * [Kubernetes总体架构](learning-kubernetes/introduce/kubernetes-architecture.md)
-  * [Kubernetes核心概念](learning-kubernetes/introduce/kubernetes-core-concepts.md)
-* [使用](learning-kubernetes/how-to-use/README.md)
-  * [kubectl 使用](learning-kubernetes/how-to-use/use-kubectl.md)
-* [原理](learning-kubernetes/principle.md)
-* [实践和思考](learning-kubernetes/my-practice.md)
 
 ## Helm <a id="learning-helm"></a>
 

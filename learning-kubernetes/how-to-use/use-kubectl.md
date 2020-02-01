@@ -1,4 +1,4 @@
-# kubectl 使用
+# 使用 kubectl
 
 kubectl 作为客户端CLI工具，可以让用户通过命令行的方式对 Kubernetes 集群进行操作。
 
