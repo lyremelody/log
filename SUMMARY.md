@@ -4,10 +4,10 @@
 
 ## 思考 <a id="mind"></a>
 
-* [技术思考](mind/thinking-about-it/README.md)
+* [关于技术](mind/thinking-about-it/README.md)
   * [初识「搜索引擎」](mind/thinking-about-it/chu-shi-sou-suo-yin-qing.md)
   * [谈谈设计之「自顶向下」和「自底向上」](mind/thinking-about-it/tan-tan-she-ji-zhi-zi-ding-xiang-xia-he-zi-di-xiang-shang.md)
-* [职业化](mind/thinking-about-professional/README.md)
+* [关于职业化](mind/thinking-about-professional/README.md)
   * [职业生涯的思考](mind/thinking-about-professional/zhi-ye-sheng-ya-de-si-kao.md)
 * [读后感](mind/after-reading/README.md)
   * [寻求内心的力量](mind/after-reading/xun-qiu-nei-xin-de-li-liang.md)
