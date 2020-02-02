@@ -31,21 +31,28 @@ $ kubectl create deployment
 
 ### 2.2 查看资源信息
 
-#### 2.2.1 查看信息
+#### 2.2.1 查看节点信息
+
+```text
+$ kubectl get nodes
+
+```
+
+#### 2.2.2 查看 Deployment
 
 ```text
 $ kubectl get deployment
 
 ```
 
-#### 2.2.2 查看 Pods
+#### 2.2.3 查看 Pods
 
 ```text
 $ kubectl get pods
 
 ```
 
-#### 2.2.3 查看 rc 和 service
+#### 2.2.4 查看 rc 和 service
 
 ```text
 $ kubectl get rc, service

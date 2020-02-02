@@ -6,7 +6,7 @@ description: '2019-03-01'
 
 > 很久以前我还跟长跑没什么关系。
 >
-> 后来，看了一本书《习惯的力量》，然后养成了跑步的习惯，写了一篇文章[《如何有效地养成习惯》](../mind/after-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)。
+> 后来，看了一本书《习惯的力量》，然后养成了跑步的习惯，写了一篇文章[《如何有效地养成习惯》](http://mp.weixin.qq.com/s?__biz=MjM5MTM4NDE3Mg==&mid=2247483664&idx=1&sn=88a5604eddd0fb327377ee47f6ae691b&chksm=a6b7161391c09f0512a740c7fa90f460bd28c1b632e943e56e2729ddd8baede225fc298478f2&scene=21#wechat_redirect)。
 >
 > 半年以后，我参加了个半程马拉松赛，拿个了纪念奖牌。
 >
