@@ -18,6 +18,19 @@ $ kubectl [command] [TYPE] [NAME] [flags]
 3. NAME：资源对象的名称，区分大小写。如果不指定名称，则系统将返回属于 TYPE 的全部对象的列表，例如 “_**kubectl get pods“**_ 将返回所有 Pod 的列表。
 4. flags：kubectl 子命令的可选参数，例如使用 _**“-s“**_ 指定 apiserver 的 URL 地址而不用默认值。
 
+### 1.2 查看帮助
+
+```text
+# 获取 command/子命令 列表
+$ kubectl --help
+
+# 获取 command/子命令 用法
+$ kubectl <command> --help
+
+# 获取全局选项列表
+$ kubectl options
+```
+
 ## 2 使用示例
 
 ### 2.1 创建资源
