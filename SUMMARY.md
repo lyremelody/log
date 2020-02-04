@@ -18,6 +18,7 @@
 
 * [处事方法归纳](practice/chu-shi-fang-fa-gui-na.md)
 * [早起，其实并没有那么难](practice/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
+* [如何写技术白皮书](practice/how-to-write-a-technical-white-paper.md)
 
 ## 读书笔记 <a id="reading-notes"></a>
 
