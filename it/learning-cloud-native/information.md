@@ -3,6 +3,7 @@
 ## 公司/社区资料
 
 1. [CNCF，云原生计算基金会](https://www.cncf.io/)
+2. [云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative)，阿里云
 
 ## 博客/文章
 
