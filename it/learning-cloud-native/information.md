@@ -17,7 +17,8 @@
 
 ## 其他
 
-1. [Architecting Cloud-Aware Applications Rev. 1.0](http://www.oaca-project.org/wp-content/uploads/2018/07/Architecting-Cloud-Aware-Applications-Best-Practices-Rev-1.0.pdf)，OPEN DATA CENTER ALLIANCE，PDF
+1. [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
+2. [Architecting Cloud-Aware Applications Rev. 1.0](http://www.oaca-project.org/wp-content/uploads/2018/07/Architecting-Cloud-Aware-Applications-Best-Practices-Rev-1.0.pdf)，OPEN DATA CENTER ALLIANCE，PDF
 
 
 
