@@ -16,6 +16,8 @@
 
 ## 实践总结 <a id="practice"></a>
 
+* [如何写技术方案](practice/how-to-write-a-technical-solution.md)
+* [如何做技术预研](practice/how-to-do-technical-pre-research.md)
 * [如何写技术白皮书](practice/how-to-write-a-technical-white-paper.md)
 * [处事方法归纳](practice/chu-shi-fang-fa-gui-na.md)
 * [早起，其实并没有那么难](practice/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
@@ -115,4 +117,5 @@
 * [MongoDB](it/learning-mongodb.md)
 * [MySQL](it/learning-mysql.md)
 * [Jenkins](it/learning-jenkins.md)
+* [Open Policy Agent](it/learning-open-policy-agent.md)
 
