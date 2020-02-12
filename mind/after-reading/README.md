@@ -4,5 +4,5 @@
 
 {% page-ref page="du-yi-lei.md" %}
 
-{% page-ref page="ru-he-you-xiao-di-yang-cheng-xi-guan.md" %}
+{% page-ref page="../../practice/how-to-form-a-habit.md" %}
 

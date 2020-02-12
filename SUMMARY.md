@@ -12,15 +12,16 @@
 * [读后感](mind/after-reading/README.md)
   * [寻求内心的力量](mind/after-reading/xun-qiu-nei-xin-de-li-liang.md)
   * [读《异类》](mind/after-reading/du-yi-lei.md)
-  * [如何有效地养成习惯](mind/after-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
 
 ## 实践总结 <a id="practice"></a>
 
+* [如何做计划](practice/how-to-plan.md)
 * [如何写技术方案](practice/how-to-write-a-technical-solution.md)
 * [如何做技术预研](practice/how-to-do-technical-pre-research.md)
 * [如何写技术白皮书](practice/how-to-write-a-technical-white-paper.md)
 * [处事方法归纳](practice/chu-shi-fang-fa-gui-na.md)
 * [早起，其实并没有那么难](practice/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
+* [如何有效地养成习惯](practice/how-to-form-a-habit.md)
 
 ## 读书笔记 <a id="reading-notes"></a>
 
