@@ -21,7 +21,7 @@
 * [如何写技术白皮书](practice/how-to-write-a-technical-white-paper.md)
 * [处事方法归纳](practice/chu-shi-fang-fa-gui-na.md)
 * [早起，其实并没有那么难](practice/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
-* [如何有效地养成习惯](practice/how-to-form-a-habit.md)
+* [如何有效地养成习惯](mind/after-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
 
 ## 读书笔记 <a id="reading-notes"></a>
 
@@ -47,6 +47,7 @@
 * [数据库理论](it/learning-database.md)
 * [分布式](it/learning-distributed.md)
 * [架构设计](it/learning-architecture/README.md)
+  * [概念整理](it/learning-architecture/architecture-concept.md)
   * [设计原则](it/learning-architecture/she-ji-yuan-ze.md)
   * [架构模式](it/learning-architecture/architecture-pattern.md)
   * [设计模式](it/learning-architecture/design-pattern.md)
@@ -63,6 +64,7 @@
   * [学习资料](it/learning-rest/information.md)
 * [云原生](it/learning-cloud-native/README.md)
   * [学习资料](it/learning-cloud-native/information.md)
+  * [云原生技术全景](it/learning-cloud-native/cloud-native-landscape.md)
 * [容器](it/learning-container.md)
 * [微服务](it/learning-microservices.md)
 * [服务网格](it/learning-service-mesh/README.md)
