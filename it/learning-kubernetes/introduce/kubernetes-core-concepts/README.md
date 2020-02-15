@@ -13,13 +13,13 @@ Kubernetes 包含若干用来表示系统状态的抽象层，包括：已部署
 
 ## 控制器对象
 
-Kubernetes 也包含大量的被称作 [Controller](https://kubernetes.io/docs/concepts/architecture/controller/) 的高级抽象。控制器基于基本对象构建并提供额外的功能和方便使用的特性。具体包括：
+Kubernetes 也包含大量的被称作 [Controller](kubernetes-core-concepts-controller.md) 的高级抽象。控制器基于基本对象构建并提供额外的功能和方便使用的特性。具体包括：
 
-* Deployment
-* DaemonSet
-* StatefulSet
-* ReplicaSet
-* Job
+* [Deployment](kubernetes-core-concepts-deployment.md)
+* [DaemonSet](kubernetes-core-concepts-daemonset.md)
+* [StatefulSet](kubernetes-core-concepts-statefulset.md)
+* [ReplicaSet](kubernetes-core-concepts-replicaset.md)
+* [Job](kubernetes-core-concepts-job.md)
 
 ## 参考资料
 
