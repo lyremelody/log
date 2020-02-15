@@ -120,6 +120,7 @@
 * [Keepalived](it/learning-keepalived.md)
 * [Kafka](it/learning-kafka.md)
 * [RabbitMQ](it/learning-rabbitmq.md)
+* [NSQ](it/learning-nsq.md)
 * [Prometheus](it/learning-prometheus.md)
 * [Zookeeper](it/learning-zookeeper.md)
 * [Etcd](it/learning-etcd.md)
