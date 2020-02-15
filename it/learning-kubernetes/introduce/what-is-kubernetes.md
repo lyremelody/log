@@ -4,6 +4,12 @@
 
 名称 **Kubernetes** 源于希腊语，意为 “舵手” 或 “飞行员”， 且是英文 “governor” 和 [“cybernetic”](http://www.etymonline.com/index.php?term=cybernetics)的词根。 k8s 是通过将 8 个字母 “ubernete” 替换为 8 而导出的缩写。另外，在中文里，k8s 的发音与 Kubernetes 的发音比较接近。
 
+Kubernetes 为什么要用“舵手”来命名呢？可以看一下这张图：
+
+![](../../../.gitbook/assets/image%20%281%29.png)
+
+这是一艘载着一堆集装箱的轮船，轮船在大海上运着集装箱奔波，把集装箱送到它们该去的地方。 容器英文container， 这个英文单词也有另外的一个意思就是“集装箱”。Kubernetes 也就借着这个寓意，希望成为运送集装箱的一个轮船，来帮助我们管理这些集装箱，也就是管理这些容器。
+
 上面是这个名称的由来，那么Kubernetes是什么呢？
 
 Kubernetes 是一个跨主机集群的 [开源的容器调度平台，它可以自动化应用容器的部署、扩展和操作](http://www.slideshare.net/BrianGrant11/wso2con-us-2015-kubernetes-a-platform-for-automating-deployment-scaling-and-operations) , 提供以容器为中心的基础架构。
