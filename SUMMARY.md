@@ -65,6 +65,8 @@
   * [学习资料](it/learning-rest/information.md)
 * [云原生](it/learning-cloud-native/README.md)
   * [学习资料](it/learning-cloud-native/information.md)
+  * [云原生是什么？](it/learning-cloud-native/what-is-cloud-native.md)
+  * [云原生发展史](it/learning-cloud-native/cloud-native-history.md)
   * [云原生技术全景](it/learning-cloud-native/cloud-native-landscape.md)
 * [容器](it/learning-container.md)
 * [微服务](it/learning-microservices.md)
