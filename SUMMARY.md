@@ -21,7 +21,7 @@
 * [如何写技术白皮书](practice/how-to-write-a-technical-white-paper.md)
 * [处事方法归纳](practice/chu-shi-fang-fa-gui-na.md)
 * [早起，其实并没有那么难](practice/zao-qi-qi-shi-bing-mei-you-na-me-nan.md)
-* [如何有效地养成习惯](mind/after-reading/ru-he-you-xiao-di-yang-cheng-xi-guan.md)
+* [如何有效地养成习惯](practice/how-to-form-a-habit.md)
 
 ## 读书笔记 <a id="reading-notes"></a>
 
@@ -47,7 +47,8 @@
 * [数据库理论](it/learning-database.md)
 * [分布式](it/learning-distributed.md)
 * [架构设计](it/learning-architecture/README.md)
-  * [概念整理](it/learning-architecture/architecture-concept.md)
+  * [概念整理](it/learning-architecture/architecture-concept/README.md)
+    * [Scalability](it/learning-architecture/architecture-concept/concept-scalability.md)
   * [设计原则](it/learning-architecture/she-ji-yuan-ze.md)
   * [架构模式](it/learning-architecture/architecture-pattern.md)
   * [设计模式](it/learning-architecture/design-pattern.md)
@@ -91,7 +92,11 @@
     * [Kubernetes是什么？](it/learning-kubernetes/introduce/what-is-kubernetes.md)
     * [Kubernetes的发展史](it/learning-kubernetes/introduce/kubernetes-history.md)
     * [Kubernetes总体架构](it/learning-kubernetes/introduce/kubernetes-architecture.md)
-    * [Kubernetes核心概念](it/learning-kubernetes/introduce/kubernetes-core-concepts.md)
+    * [Kubernetes核心概念](it/learning-kubernetes/introduce/kubernetes-core-concepts/README.md)
+      * [Pod](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-pod.md)
+      * [Service](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-service.md)
+      * [Volume](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-volume.md)
+      * [Namespace](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-namespace.md)
   * [使用](it/learning-kubernetes/how-to-use/README.md)
     * [使用 kubectl](it/learning-kubernetes/how-to-use/use-kubectl.md)
     * [使用 ConfigMap](it/learning-kubernetes/how-to-use/use-configmap.md)
