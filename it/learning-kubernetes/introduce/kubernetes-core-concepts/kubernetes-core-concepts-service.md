@@ -1,5 +1,7 @@
 # Service
 
+Service 是将运行在一组 Pod 上的应用程序公开为网络服务的抽象方法，这里的网络服务，一般可以看作是「微服务」。
+
 Service 提供了一个或者多个 Pod 实例的稳定访问地址。
 
 ![](../../../../.gitbook/assets/image%20%285%29.png)
@@ -15,6 +17,7 @@ Service 提供了一个或者多个 Pod 实例的稳定访问地址。
 ## 参考资料
 
 1. [云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative)，阿里云
+2. [Kubernetes权威指南](https://book.douban.com/subject/27112874/)，2017
 
 
 
