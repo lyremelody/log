@@ -105,6 +105,8 @@
       * [StatefulSet](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-statefulset.md)
       * [ReplicaSet](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-replicaset.md)
       * [Job](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-job.md)
+    * [Kubernetes其他概念](it/learning-kubernetes/introduce/kubernetes-some-concepts/README.md)
+      * [IP](it/learning-kubernetes/introduce/kubernetes-some-concepts/kubernetes-some-concepts-ip.md)
   * [使用](it/learning-kubernetes/how-to-use/README.md)
     * [使用 kubectl](it/learning-kubernetes/how-to-use/use-kubectl.md)
     * [使用 ConfigMap](it/learning-kubernetes/how-to-use/use-configmap.md)
