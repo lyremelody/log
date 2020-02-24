@@ -14,7 +14,7 @@ Release 是在 Kubernetes 集群上运行的一个 Chart 实例。在同一个�
 
 ## 3 Repository
 
-Repository 是用于存放和共享 Chart 的仓库。
+Repository 是用于存放和共享 Chart 的仓库，用于 Kubernetes 上应用的包。类似 Perl 的 [CPAN archive](https://www.cpan.org/) 或者 [Fedora Package Database](https://admin.fedoraproject.org/pkgdb/)。
 
 
 

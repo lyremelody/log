@@ -115,6 +115,7 @@
 * [Helm](it/learning-helm/README.md)
   * [学习资料](it/learning-helm/information.md)
   * [概念](it/learning-helm/introduce/README.md)
+    * [Helm是什么？](it/learning-helm/introduce/what-is-helm.md)
     * [Helm核心概念](it/learning-helm/introduce/core-concept.md)
     * [Chart](it/learning-helm/introduce/core-concept-chart.md)
   * [使用](it/learning-helm/how-to-use.md)
