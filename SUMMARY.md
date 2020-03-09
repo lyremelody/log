@@ -73,6 +73,8 @@
 * [服务网格](it/learning-service-mesh/README.md)
   * [学习资料](it/learning-service-mesh/information.md)
 * [测试](it/learning-test.md)
+* [混沌工程](it/learning-chaos-engineering/README.md)
+  * [混沌工程是什么？](it/learning-chaos-engineering/what-is-chaos-engineering.md)
 * [Python](it/learning-python.md)
 * [C++](it/learning-cpp.md)
 * [Golang](it/learning-golang.md)
