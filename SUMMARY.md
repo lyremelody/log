@@ -63,6 +63,7 @@
 * [云计算](it/learning-cloud-computing.md)
 * [REST](it/learning-rest/README.md)
   * [学习资料](it/learning-rest/information.md)
+* [API](it/learning-api.md)
 * [云原生](it/learning-cloud-native/README.md)
   * [学习资料](it/learning-cloud-native/information.md)
   * [云原生是什么？](it/learning-cloud-native/what-is-cloud-native.md)
