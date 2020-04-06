@@ -114,6 +114,7 @@
   * [使用](it/learning-kubernetes/how-to-use/README.md)
     * [使用 kubectl](it/learning-kubernetes/how-to-use/use-kubectl.md)
     * [使用 ConfigMap](it/learning-kubernetes/how-to-use/use-configmap.md)
+    * [Pod 健康检查](it/learning-kubernetes/how-to-use/pod-health-check.md)
   * [原理](it/learning-kubernetes/principle.md)
   * [实践和思考](it/learning-kubernetes/my-practice.md)
 * [Helm](it/learning-helm/README.md)
