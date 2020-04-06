@@ -12,7 +12,8 @@
 
 ## 书
 
-1. [Kubernetes权威指南](https://book.douban.com/subject/27112874/)，2017
+1. Kubernetes in Action 中文版，2019
+2. [Kubernetes权威指南](https://book.douban.com/subject/27112874/)，2017
 
 ## 其他资料
 
