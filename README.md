@@ -12,23 +12,23 @@ description: '@lyremelody 的日志'
 {% endtab %}
 
 {% tab title="学习笔记" %}
-{% page-ref page="it/learning-computer.md" %}
+{% page-ref page="plan/learning-computer.md" %}
 
 {% page-ref page="it/learning-algorithm/" %}
 
 {% page-ref page="it/learning-data-structure/" %}
 
-{% page-ref page="it/learning-operating-system.md" %}
+{% page-ref page="plan/learning-operating-system.md" %}
 
-{% page-ref page="it/learning-network.md" %}
+{% page-ref page="plan/learning-network.md" %}
 
-{% page-ref page="it/learning-database.md" %}
+{% page-ref page="plan/learning-database.md" %}
 
 {% page-ref page="it/learning-load-balance.md" %}
 
 {% page-ref page="it/learning-message-queue/" %}
 
-{% page-ref page="it/learning-security.md" %}
+{% page-ref page="plan/learning-security.md" %}
 
 {% page-ref page="it/learning-distributed.md" %}
 
