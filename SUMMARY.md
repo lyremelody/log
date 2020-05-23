@@ -109,6 +109,7 @@
       * [ReplicaSet](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-replicaset.md)
       * [Job](it/learning-kubernetes/introduce/kubernetes-core-concepts/kubernetes-core-concepts-job.md)
     * [Kubernetes其他概念](it/learning-kubernetes/introduce/kubernetes-some-concepts/README.md)
+      * [Sidecar](it/learning-kubernetes/introduce/kubernetes-some-concepts/concepts-sidecar.md)
       * [IP](it/learning-kubernetes/introduce/kubernetes-some-concepts/kubernetes-some-concepts-ip.md)
       * [Port](it/learning-kubernetes/introduce/kubernetes-some-concepts/kubernetes-some-concepts-port.md)
   * [使用](it/learning-kubernetes/how-to-use/README.md)

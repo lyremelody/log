@@ -1,6 +1,10 @@
 # Pod 健康检查
 
-对 Pod 对健康检查可以通过两类探针来检查： LivenessProbe 和 ReadinessProbe。
+对 Pod 对健康检查可以通过三类探针来检查
+
+1. LivenessProbe
+2. ReadinessProbe
+3. StartupProbe（kubernetes v1.16 alpha）
 
 ## 1 LivenessProbe 
 
@@ -87,7 +91,53 @@ ReadinessProbe ，「就绪探针」，用于判断容器是否启动完成（re
 
 当一个容器关闭时，运行在其中的应用程序通常会在接收终止信号后立即停止接收连接。因此，可能认为只要启动关机程序，就需要让就绪探针返回失败，以确保从所有服务中删除该 Pod，类似于 Linux 系统关闭时对于服务的处理。但这不是必需的，因为只要删除该容器，Kubernetes 就会从所有服务中移除该容器。
 
-## 3 参考资料
+## 3 StartupProbe
+
+StartupProbe，「启动探针」，用于判断容器中的应用程序是否已启动。
+
+如果提供了启动探针，则将禁用所有其他探针，直到成功。如果启动探针失败，则kubelet将杀死Container，并且Container将接受其重启策略。
+
+如果容器未提供启动探针，则默认状态为`Success`。
+
+## 4 一种实践
+
+应用服务定义健康检查接口：
+
+1. GET /health/alive
+2. GET /health/ready
+
+定义配置
+
+```text
+ports:
+- name: liveness-port
+  containerPort: 8080
+  hostPort: 8080
+
+
+readinessProbe:
+  httpGet:
+    path: /health/ready
+    port: liveness-port
+  failureThreshold: 1
+  periodSeconds: 10
+
+livenessProbe:
+  httpGet:
+    path: /health/alive
+    port: liveness-port
+  failureThreshold: 1
+  periodSeconds: 10
+
+startupProbe:
+  httpGet:
+    path: /health/alive
+    port: liveness-port
+  failureThreshold: 30
+  periodSeconds: 10
+```
+
+## 5 参考资料
 
 1. Kubernetes in Action 中文版，2019
 2. [Kubernetes权威指南](https://book.douban.com/subject/27112874/)，2017

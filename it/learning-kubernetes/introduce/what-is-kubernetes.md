@@ -1,6 +1,6 @@
 # Kubernetes是什么？
 
-## **Kubernetes 是什么意思? k8s?**
+## 1 **Kubernetes 是什么意思? k8s?**
 
 名称 **Kubernetes** 源于希腊语，意为 “舵手” 或 “飞行员”， 且是英文 “governor” 和 [“cybernetic”](http://www.etymonline.com/index.php?term=cybernetics)的词根。 k8s 是通过将 8 个字母 “ubernete” 替换为 8 而导出的缩写。另外，在中文里，k8s 的发音与 Kubernetes 的发音比较接近。
 
@@ -18,7 +18,7 @@ Kubernetes 是一个工业级的容器编排平台。
 
 Kubernetes是Google多年大规模容器管理技术Borg的开源版本，也是CNCF最重要的项目之一，是容器编排领域的事实标准。
 
-## Kubernetes 有哪些功能？
+## 2 Kubernetes 有哪些功能？
 
 Kubernetes 可以在物理或虚拟机集群上调度和运行应用程序容器
 
@@ -38,7 +38,7 @@ Kubernetes 可以在物理或虚拟机集群上调度和运行应用程序容器
 
 
 
-## 参考资料
+## 3 参考资料
 
 1. [Kubernetes官方文档 - Concepts - What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
