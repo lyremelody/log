@@ -24,19 +24,19 @@ description: '@lyremelody 的日志'
 
 {% page-ref page="plan/learning-database.md" %}
 
-{% page-ref page="it/learning-load-balance.md" %}
+{% page-ref page="plan/learning-load-balance.md" %}
 
 {% page-ref page="it/learning-message-queue/" %}
 
 {% page-ref page="plan/learning-security.md" %}
 
-{% page-ref page="it/learning-distributed.md" %}
+{% page-ref page="plan/learning-distributed.md" %}
 
-{% page-ref page="it/learning-python.md" %}
+{% page-ref page="plan/learning-python.md" %}
 
-{% page-ref page="it/learning-cpp.md" %}
+{% page-ref page="plan/learning-cpp.md" %}
 
-{% page-ref page="it/learning-golang.md" %}
+{% page-ref page="plan/learning-golang.md" %}
 {% endtab %}
 
 {% tab title="云原生" %}
