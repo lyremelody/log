@@ -65,6 +65,7 @@
   * [学习资料](it/learning-service-mesh/information.md)
 * [混沌工程](it/learning-chaos-engineering/README.md)
   * [混沌工程是什么？](it/learning-chaos-engineering/what-is-chaos-engineering.md)
+* [多租户](it/multitenancy.md)
 * [Docker](it/learning-docker/README.md)
   * [学习资料](it/learning-docker/information.md)
   * [概念](it/learning-docker/introduce/README.md)
