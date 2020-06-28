@@ -61,6 +61,8 @@
   * [云原生技术全景](it/learning-cloud-native/cloud-native-landscape.md)
 * [容器](it/learning-container.md)
 * [微服务](it/learning-microservices.md)
+* [多租户](it/multi-tenancy/README.md)
+  * [学习资料](it/multi-tenancy/infomation.md)
 * [服务网格](it/learning-service-mesh/README.md)
   * [学习资料](it/learning-service-mesh/information.md)
 * [混沌工程](it/learning-chaos-engineering/README.md)
